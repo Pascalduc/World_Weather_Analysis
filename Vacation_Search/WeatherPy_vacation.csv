@@ -1,0 +1,60 @@
+City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
+11,New Norfolk,AU,29.44,clear sky,-42.7826,147.0587,The Shingles Riverside Cottages
+31,Avarua,CK,29.0,broken clouds,-21.2078,-159.775,Paradise Inn
+32,Hobart,AU,29.44,clear sky,-42.8794,147.3294,Mantra on Collins Hobart
+40,Vaini,TO,29.0,broken clouds,-21.2,-175.2,Keleti Beach Resort
+43,Cam Ranh,VN,28.0,broken clouds,11.9214,109.1591,OYO 598 Peony Hotel
+44,Carnarvon,AU,29.0,overcast clouds,-24.8667,113.6333,Hospitality Carnarvon
+46,Karratha,AU,31.59,clear sky,-20.7377,116.8463,ibis Styles Karratha
+48,Hithadhoo,MV,28.79,clear sky,-0.6,73.0833,Scoop Guest House
+62,Mahibadhoo,MV,28.32,broken clouds,3.7833,72.9667,Omadhoo Inn
+72,Moratuwa,LK,28.0,few clouds,6.773,79.8816,Sa Mansion By Yoho
+74,Georgetown,MY,28.33,few clouds,5.4112,100.3354,Cititel Penang
+78,Alofi,NU,30.0,overcast clouds,-19.0595,-169.9187,Taloa Heights
+84,Tautira,PF,28.89,light rain,-17.7333,-149.15,Pension Oaoa
+86,Ternate,ID,29.07,few clouds,0.8,127.4,Grand Dafam Bela Ternate
+122,Palimbang,PH,29.05,overcast clouds,6.2106,124.1894,Felmar Beach resort
+129,Martapura,ID,28.0,few clouds,-3.4167,114.85,Montana Hotel Syariah
+139,Mount Isa,AU,29.0,scattered clouds,-20.7333,139.5,ibis Styles Mt Isa Verona
+189,Sarh,TD,28.0,clear sky,9.1429,18.3923,Hôtel des Chasses
+205,Hitiaa,PF,28.89,light rain,-17.6,-149.3,Paparoa
+212,Saint George,US,28.0,clear sky,37.1041,-113.5841,Best Western Plus Abbey Inn
+216,Gizo,SB,29.8,broken clouds,-8.103,156.8419,Imagination Island
+217,Sattahip,TH,31.67,few clouds,12.6664,100.9007,Makmai Sailom Heights
+226,Namatanai,PG,30.41,scattered clouds,-3.6667,152.4333,Namatanai Hotel
+227,Kudahuvadhoo,MV,28.15,scattered clouds,2.6708,72.8944,Niyama Private Islands Maldives
+230,Codrington,AU,29.16,clear sky,-38.2667,141.9667,Codrington Gardens Bed And Breakfast
+231,Kavaratti,IN,28.23,overcast clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+232,Kieta,PG,29.6,overcast clouds,-6.2167,155.6333,Uruna Bay Retreat
+263,Pangai,TO,30.0,broken clouds,-19.8,-174.35,Ha'apai Beach Resort
+264,Puerto Escondido,MX,29.0,clear sky,15.85,-97.0667,Aldea del Bazar Hotel and Spa
+268,Lamu,KE,28.0,few clouds,-2.2717,40.902,Lamu House
+282,Kavieng,PG,29.22,light rain,-2.5744,150.7967,Nusa Island Retreat
+288,Atar,MR,30.49,overcast clouds,20.5169,-13.0499,Oumou Elghoura
+289,Isangel,VU,30.0,moderate rain,-19.55,169.2667,Volcano Sea View Tree House
+292,Biak,ID,28.77,broken clouds,-0.9131,122.8766,Penginapan Kim
+293,Kota Kinabalu,MY,28.0,few clouds,5.9749,116.0724,Gaya Centre Hotel
+303,Anloga,GH,28.0,few clouds,5.7947,0.8973,Pin Drop Hotel
+307,Kokoda,PG,28.46,overcast clouds,-8.8785,147.7407,Daito Guest House
+308,Bousse,BF,28.0,clear sky,12.6606,-1.8922,Maison d'hôtes EBEN-EZER DE BOUSSE
+327,Honiara,SB,31.26,scattered clouds,-9.4333,159.95,Heritage Park Hotel
+330,Ugoofaaru,MV,28.53,clear sky,5.6667,73.0,Ungoofaaru Inn
+355,Dingle,PH,28.51,broken clouds,10.9995,122.6711,SEGAYA PROPERTY
+363,Davila,PH,28.0,few clouds,18.4726,120.5763,Blue Ridge Beach Resort
+373,Champerico,GT,31.0,few clouds,14.3,-91.9167,"Hotel y restaurante ""El Diamante"""
+375,Kampot,KH,28.0,light rain,10.6167,104.1833,Two Moons Hotel
+379,Yarada,IN,29.0,mist,17.65,83.2667,Jeevan
+416,Mareeba,AU,28.0,scattered clouds,-17.0,145.4333,Trinity Plains Tourist Park
+426,Kerema,PG,29.06,overcast clouds,-7.9631,145.7785,Frena Lodge
+428,Coahuayana,MX,28.0,scattered clouds,18.7333,-103.6833,El rranchito michuacan de ocampos
+446,Auki,SB,30.84,broken clouds,-8.7676,160.7034,Auki Motel
+448,Joson,PH,29.72,clear sky,15.9257,120.9912,Mason Lodge
+456,Palu,ID,30.62,overcast clouds,-0.8917,119.8707,Hotel Santika Palu
+467,Kosum Phisai,TH,30.56,broken clouds,16.2486,103.0674,Banrao
+486,Zhuhai,CN,28.89,few clouds,22.2769,113.5678,Nanyang Seascape Hotel Zhuhai Hotel
+519,Sabang,ID,28.4,broken clouds,5.8933,95.3214,Hotel Citra
+541,Makakilo City,US,28.0,scattered clouds,21.3469,-158.0858,Marriott's Ko Olina Beach Club
+542,Nogales,MX,28.33,clear sky,31.3086,-110.9422,Hotel Marqués De Cima
+573,Miri,MY,28.0,few clouds,4.4148,114.0089,"Mega Hotel, Miri"
+587,Pochutla,MX,30.0,broken clouds,15.7432,-96.4661,Hotel Posada San Jose
+625,Manggar,ID,28.54,broken clouds,-2.8833,108.2667,Guest Hotel
