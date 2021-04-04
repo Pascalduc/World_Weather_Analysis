@@ -3,7 +3,7 @@
 The purpose of this analysis was to build the PlanMyTrip app for users to input their minimum and maximum temperature preferences to identify potential destinations. 
 
 ## Results:
-At first we generated two thousand pair of latitude and longitude using the `numpy.random.uniform` function. We then searched for the nearest city for each pair of coordinates with the `citipy` module. Using the Open Weather Map API, we retrieved the current weather for each city and assembled the DataFrame and export to a csv file.
+At first we generated two thousand pairs of latitude and longitude using the `numpy.random.uniform` function. We then searched for the nearest city for each pair of coordinates with the `citipy` module. Using the Open Weather Map API, we retrieved the current weather for each city and assembled the DataFrame and export to a csv file.
 
 In the second part, we used our city csv file to search for matching hotels with the Google map API based on latitude and longitude coordinates. Despite having zero count for empty cells, two hotel rows were empty, so we used the `replace` empty string function before the `dropna`.
 
